@@ -1,0 +1,147 @@
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 72px;
+}
+
+#staryNight {
+    text-align: center;
+    width: 500px;
+    font-size: 40px;
+
+}
+
+#nightSky {
+    color: rgba(65, 70, 81, 1);
+    text-align: center;
+    font-size: 20px;
+}
+#divMain{
+    height: 100%;
+}
+
+#div1 {
+    width: 500px;
+
+}
+
+#li2 {
+    margin-top: 10px;
+}
+
+#li3 {
+    margin-top: 10px;
+}
+
+#ol1 {
+    color: rgba(21, 94, 239, 1);
+    font-size: 16px;
+}
+
+#readMore {
+    font-size: 24px;
+    color:rgba(206, 162, 1, 1);
+    width: 140px;
+    padding: 20px;
+    text-align: center;
+    border: solid rgba(206, 162, 1, 1);
+}
+
+#div2 {
+    width: 700px;
+}
+
+#theMagic {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+#magicP {
+    text-align: center;
+    font-size: 20px;
+
+}
+
+#worksP {
+    color: rgba(0, 199, 110, 1);
+    font-size: 20px;
+    margin-right: 20px;
+    margin-left: 250px;
+}
+
+#div3 {
+    width: 100%;
+}
+
+#li1 {
+    margin-left: 150px;
+    color: rgba(255, 93, 163, 1);
+    font-size: 16px;
+}
+
+#li22 {
+    margin-left: 150px;
+    color: rgba(255, 93, 163, 1);
+    font-size: 16px;
+}
+
+#li33 {
+    margin-left: 150px;
+    color: rgba(255, 93, 163, 1);
+    font-size: 16px;
+}
+
+#kogoImg {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#div4 {
+    width: 700px;
+    border: solid rgba(193, 21, 116, 1) 6px;
+    width: 700px;
+    height: 200px;
+    background-color: rgba(255, 222, 240, 1);
+}
+
+#h22 {
+    padding: 5px;
+    margin-left: 15px;
+}
+#img2{
+    margin-left: 20px;
+}
+#fireFlies{
+    margin-top: -19px;
+    margin-left: 45px;
+    color: rgba(194, 117, 18, 1);
+}
+#img3{
+    margin-left: 20px;
+}
+#deepSea{
+    margin-top: -19px;
+    margin-left: 45px;
+    color: rgba(194, 117, 18, 1);
+}
+#img4{
+    margin-left: 20px;
+}
+#fungi{
+    margin-top: -19px;
+    margin-left: 45px;
+    color: rgba(194, 117, 18, 1);
+}
+#tevzi{
+    margin-top: 20px;
+}
+#link{
+    font-size: 24px;
+    color: rgba(0, 212, 188, 1);
+}
+#linkP{
+    text-align: right;
+    width: 500px;
+    margin-left: 200px;
+}
